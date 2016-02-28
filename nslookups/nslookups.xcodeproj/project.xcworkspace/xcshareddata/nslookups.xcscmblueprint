@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A65D0BFB4E24531EBB6BF71F6B0FBA8BA2107ABB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A65D0BFB4E24531EBB6BF71F6B0FBA8BA2107ABB" : 0,
+    "A445E8BEB27C2184E676ACF3F5F0A1A56CEE8095" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CC61BFE8-61E6-492C-8753-224A2E0F34F0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A65D0BFB4E24531EBB6BF71F6B0FBA8BA2107ABB" : "research_public\/",
+    "A445E8BEB27C2184E676ACF3F5F0A1A56CEE8095" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "nslookups",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "nslookups\/nslookups.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:engelsjo\/iOS-Container-View-Demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A445E8BEB27C2184E676ACF3F5F0A1A56CEE8095"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:engelsjo\/research_public.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A65D0BFB4E24531EBB6BF71F6B0FBA8BA2107ABB"
+    }
+  ]
+}
